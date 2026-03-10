@@ -16,6 +16,7 @@ Features
 ![AI Password Manager](App.png)
 
 Tech Stack
+
 Python
 CustomTkinter
 SQLite

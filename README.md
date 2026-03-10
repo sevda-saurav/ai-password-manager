@@ -11,6 +11,10 @@ Features
 - Delete saved passwords
 - GUI built with CustomTkinter
 
+## Screenshot
+
+![AI Password Manager](App.png)
+
 Tech Stack
 Python
 CustomTkinter

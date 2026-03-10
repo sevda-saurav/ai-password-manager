@@ -1,0 +1,18 @@
+# Database
+passwords.db
+
+# Encryption keys
+secret.key
+key.key
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
